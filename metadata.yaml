@@ -1,0 +1,32 @@
+_repo: Fables-of-Infidelity-and-Facts-of-FaithBeing-an-Examination-of-the-Evidences-of-Infidelity_19566
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Patterson, Robert
+    birthdate: 1829
+    deathdate: 1885
+    gutenberg_agent_id: '8755'
+    url: http://www.gutenberg.org/2009/agents/8755
+description: ''
+gutenberg_issued: '2006-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pantheism'
+- !lcsh 'Atheism -- Controversial literature'
+- !lcc 'BT'
+- !lcsh 'Religion and science'
+- !lcsh 'Rationalism -- Controversial literature'
+- !lcsh 'Apologetics -- History -- 19th century'
+title: 'Fables of Infidelity and Facts of Faith
+
+  Being an Examination of the Evidences of Infidelity'
+url: http://www.gutenberg.org/ebooks/19566
