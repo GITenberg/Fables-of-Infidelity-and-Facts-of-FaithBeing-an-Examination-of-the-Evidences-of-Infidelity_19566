@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8755'
     url: http://www.gutenberg.org/2009/agents/8755
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19566#Fables-of-Infidelity-and-Facts-of-FaithBeing-an-Examination-of-the-Evidences-of-Infidelity
 gutenberg_issued: '2006-10-17'
 gutenberg_type: Text
 identifiers:
